@@ -28,4 +28,6 @@ npm run compile
 
 Other Projects
 ---
+[React docs](https://reactjs.org/docs/hello-world.html)
+
 [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22)
